@@ -1,8 +1,4 @@
-# EventPro — Next.js Website
 
-Premium event management website for Davao City, built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**. Ready to deploy on Vercel.
-
----
 
 ## 🗂 Project Structure
 
